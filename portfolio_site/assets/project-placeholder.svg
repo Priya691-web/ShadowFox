@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project placeholder">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="20" y="20" width="760" height="410" rx="14" fill="#faf5ff" stroke="#eee" />
+  <rect x="40" y="40" width="320" height="220" rx="8" fill="#fff" stroke="#eee"/>
+  <rect x="380" y="40" width="360" height="220" rx="8" fill="#fff" stroke="#eee"/>
+  <rect x="40" y="280" width="700" height="80" rx="8" fill="#fff" stroke="#eee"/>
+</svg>
